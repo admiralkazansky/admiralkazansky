@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*oHvNnllcUKXl-MwpJVF1Xg.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*Sno-y_rBElSRNUoPugiaVA.gif)
 <h1 align="center">Hi 👋, I'm Enoch E.A</h1>
 <h3 align="center">Cloud, DevOps, & Security Enthusiast</h3>
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="DEVOPS" width="400" style="float: right;">
