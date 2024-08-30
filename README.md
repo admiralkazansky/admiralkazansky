@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enoch E.A</h1>
-<h3 align="center">Cloud, DevOps, & Security Enthusiast</h3>
+<h3 align="center">Cloud Infrastructure & Security </h3>
 
 - 📝 I regularly write articles on [https://devopsenoch.hashnode.dev/](https://devopsenoch.hashnode.dev/)
 
