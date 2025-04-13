@@ -1,1 +1,1 @@
- > *🧊 Just a digital Iceman on a mission.*
+Just a digital Iceman on a mission.
